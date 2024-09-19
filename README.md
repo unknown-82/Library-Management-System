@@ -17,7 +17,7 @@
 
 # Live Preview
 
-[Book keeping App](https://i-novotec-book-keeping-app.herokuapp.com/)
+[Library Management System](https://i-novotec-book-keeping-app.herokuapp.com/)
 
 # Backend packages used:
 
