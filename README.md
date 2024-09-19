@@ -1,4 +1,4 @@
-# book-keeping-app Description
+# Features of Library Management System
 
 - CRUD operations
 - Database modelling
@@ -9,9 +9,10 @@
 
 # Technologies
 
-- Node Js/Express
-- React/Redux
-- MongoDB/Mongoose
+- Node Js
+- Express
+- React
+- MongoDB
 - Authentication with JWT and brcypts
 
 # Live Preview
